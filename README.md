@@ -7,6 +7,7 @@ Accurcy:
 - First Try: 82% Accurcy
 
 References: 
+
 [1] ImageNet Classification with Deep Convolutional Neural Networks
 
 
